@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/megaBytesConverter.iml" filepath="$PROJECT_DIR$/.idea/megaBytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BarkingDog.iml" filepath="$PROJECT_DIR$/BarkingDog.iml" />
     </modules>
   </component>
 </project>
