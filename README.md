@@ -4,4 +4,6 @@
 ![przechwytywanie](https://user-images.githubusercontent.com/36437590/44743226-3575d880-ab02-11e8-8795-f06c5dcbc476.PNG)
 3. LeapYear:
 ![przechwytywanie](https://user-images.githubusercontent.com/36437590/44749173-10896180-ab12-11e8-8e03-42f22d9924bf.PNG)
+3. ByThreeDecimals:
+![przechwytywanie](https://user-images.githubusercontent.com/36437590/44751381-4e898400-ab18-11e8-8fdb-10d8411d1ed1.PNG)
 
