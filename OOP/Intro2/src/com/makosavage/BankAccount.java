@@ -18,6 +18,12 @@ public class BankAccount {
 
     }
 
+    public BankAccount(int accountNumber, int balance, String customerName) {
+        this.accountNumber = accountNumber;
+        this.balance = balance;
+        this.customerName = customerName;
+    }
+
     public void deposit(int ammount){
         this.balance += ammount;
         System.out.println("Balance: " + this.balance);
